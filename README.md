@@ -26,6 +26,3 @@ Library Management System is a JavaFX-based library management application desig
 
 Contributions are greatly appreciated! Please fork this repository and create pull requests for feature additions or improvements.
 
-## Licence
-
-[MIT License](LICENSE)
